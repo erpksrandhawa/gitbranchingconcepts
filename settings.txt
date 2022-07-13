@@ -1,1 +1,3 @@
 Added Setting features.
+
+NEW line
